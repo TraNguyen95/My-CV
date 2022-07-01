@@ -1,12 +1,12 @@
 # Trungquandev CV Online
 
-View Live Preview - https://cv.trungquandev.com
+View Live Preview - https://tranguyen95.github.io/My-CV/
 
 ## Signature
 
 Author: Trà Nguyễn
 
-CV: https://cv.trungquandev.com/
+CV: https://tranguyen95.github.io/My-CV/
 
 "A little bit of fragrance always clings to the hands that gives flowers!"
 
