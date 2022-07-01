@@ -1,4 +1,4 @@
-# Trungquandev CV Online
+# TraNguyen CV Online
 
 View Live Preview - https://tranguyen95.github.io/My-CV/
 
