@@ -187,11 +187,11 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #38ada9 !important;
+  background-color: #416968 !important;
 }
 
 .text-primary {
-  color: #079992 !important;
+  color: #416968 !important;
 }
 
 .text-primary:hover {
@@ -199,7 +199,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: #079992;
+  color: #416968 !important;
 }
 
 a:hover, a:focus, a:active {
@@ -207,7 +207,7 @@ a:hover, a:focus, a:active {
 }
 
 .alertify-notifier .ajs-message.ajs-success {
-  background-color: #38ada9;
+  background-color: #416968;
   color: #FFFFFF;
 }
 
